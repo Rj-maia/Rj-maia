@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Rui Maia.
+I'm a Software Analyst / Programmer.
+i'm currently interested in learning about Low Code.
+
 <!--
 **Rj-maia/Rj-maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
